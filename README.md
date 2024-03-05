@@ -1,20 +1,17 @@
 # ycriatimt
 
+Why the name? 
+
 `ycriatimt` stands for 
-_You can run it and than it makes things_
-
-## What's about
-
-The purpose of this for trying things out and learning.
+_You can run it and than it makes things_.
 
 ## Running
 
-
-#### main program
+### main program
 
 `cargo run`
 
-#### sub programs
+### sub programs
 
 `cargo run --bin 001`
 
