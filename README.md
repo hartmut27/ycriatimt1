@@ -1,7 +1,3 @@
-
-test
-
-
 # ycriatimt
 
 `ycriatimt` stands for 
