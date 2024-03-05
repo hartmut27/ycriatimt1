@@ -20,6 +20,8 @@ The purpose of this for trying things out and learning.
 
 #### sub programs
 
-`cargo run --bin eins`
+`cargo run --bin 001`
 
-`cargo run --bin zwei`
+`cargo run --bin 002`
+
+`cargo run --bin 003`
